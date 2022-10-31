@@ -1,3 +1,2 @@
-2022/10/31-23:01:00.254 1233 Reusing MANIFEST /home/nqu/whatsappbot/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
-2022/10/31-23:01:00.254 1233 Recovering log #3
-2022/10/31-23:01:00.254 1233 Reusing old log /home/nqu/whatsappbot/.wwebjs_auth/session/Default/Local Storage/leveldb/000003.log 
+2022/10/31-23:14:52.307 190e Creating DB /home/nqu/whatsappbot/.wwebjs_auth/session/Default/Local Storage/leveldb since it was missing.
+2022/10/31-23:14:52.314 190e Reusing MANIFEST /home/nqu/whatsappbot/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001

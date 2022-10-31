@@ -1,3 +1,2 @@
-2022/10/31-23:01:01.862 1235 Reusing MANIFEST /home/nqu/whatsappbot/.wwebjs_auth/session/Default/Session Storage/MANIFEST-000001
-2022/10/31-23:01:01.862 1235 Recovering log #3
-2022/10/31-23:01:01.862 1235 Reusing old log /home/nqu/whatsappbot/.wwebjs_auth/session/Default/Session Storage/000003.log 
+2022/10/31-23:14:53.985 190b Creating DB /home/nqu/whatsappbot/.wwebjs_auth/session/Default/Session Storage since it was missing.
+2022/10/31-23:14:53.991 190b Reusing MANIFEST /home/nqu/whatsappbot/.wwebjs_auth/session/Default/Session Storage/MANIFEST-000001

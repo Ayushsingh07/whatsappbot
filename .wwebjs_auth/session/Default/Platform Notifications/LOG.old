@@ -1,3 +1,2 @@
-2022/10/31-23:01:00.254 1232 Reusing MANIFEST /home/nqu/whatsappbot/.wwebjs_auth/session/Default/Platform Notifications/MANIFEST-000001
-2022/10/31-23:01:00.254 1232 Recovering log #3
-2022/10/31-23:01:00.254 1232 Reusing old log /home/nqu/whatsappbot/.wwebjs_auth/session/Default/Platform Notifications/000003.log 
+2022/10/31-23:15:25.403 190e Creating DB /home/nqu/whatsappbot/.wwebjs_auth/session/Default/Platform Notifications since it was missing.
+2022/10/31-23:15:25.410 190e Reusing MANIFEST /home/nqu/whatsappbot/.wwebjs_auth/session/Default/Platform Notifications/MANIFEST-000001
