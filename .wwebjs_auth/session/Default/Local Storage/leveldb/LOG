@@ -1,3 +1,6 @@
-2022/10/31-23:58:54.594 f6e Reusing MANIFEST /home/nqu/whatsappbot/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
-2022/10/31-23:58:54.594 f6e Recovering log #3
-2022/10/31-23:58:54.594 f6e Reusing old log /home/nqu/whatsappbot/.wwebjs_auth/session/Default/Local Storage/leveldb/000003.log 
+2022/11/01-13:53:26.712 4778 Reusing MANIFEST /home/nqu/whatsappbot/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2022/11/01-13:53:26.713 4778 Recovering log #3
+2022/11/01-13:53:26.713 4778 Reusing old log /home/nqu/whatsappbot/.wwebjs_auth/session/Default/Local Storage/leveldb/000003.log 
+2022/11/01-13:55:28.356 477a Level-0 table #5: started
+2022/11/01-13:55:28.361 477a Level-0 table #5: 22850 bytes OK
+2022/11/01-13:55:28.363 477a Delete type=0 #3
