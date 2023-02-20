@@ -938,4 +938,11 @@
 2023/02/20-14:52:39.433 5935 Compacting 1@1 + 4@2 files
 2023/02/20-14:52:39.469 5935 Generated table #528@1: 13012 keys, 2179220 bytes
 2023/02/20-14:52:39.494 5935 Generated table #529@1: 3170 keys, 2161148 bytes
+<<<<<<< HEAD
 >>>>>>> d20d476 (delted file)
+=======
+2023/02/20-14:52:39.513 5935 Generated table #530@1: 3263 keys, 2154724 bytes
+2023/02/20-14:52:39.532 5935 Generated table #531@1: 3408 keys, 2020047 bytes
+2023/02/20-14:52:39.532 5935 Compacted 1@1 + 4@2 files => 8515139 bytes
+2023/02/20-14:52:39.534 5935 compacted to: files[ 0 0 17 0 0 0 0 ]
+>>>>>>> ef92a39 (added file)
